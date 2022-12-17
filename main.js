@@ -8,8 +8,13 @@ function arttirma() {
 }
 
 function azaltma() {
-  count = count - 1;
+  if(count > 0){
+    count = count - 1;
   personelSayi.innerText = count;
+  }
+  else{
+    alert("0'ın Altına inilemez")
+  }
 }
 
 function sifirlama() {
