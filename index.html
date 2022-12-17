@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Yemek Yiyen Personel Sayma Uygulaması</title>
+  </head>
+
+  <body>
+    <div class="container">
+      <h1 class="musteri" id="musteri">
+        Yemek Yiyen Personel Sayma Uygulaması
+      </h1>
+      <h1 class="metin" id="metin">Kişi sayısı:</h1>
+      <h2 class="sayiSay" id="sayiSaydir">0</h2>
+
+      <p id="gecmisGirisler">Geçmiş Girişler: </p>
+
+      <a
+        class="my-button"
+        role="button"
+        id="arttir"
+        href="#"
+        onclick="arttirma()"
+        >1 Arttır</a
+      >
+      <a class="my-button" role="button" id="azalt" href="#" onclick="azaltma()"
+        >1 Azalt</a
+      ><br /><br />
+      <a
+        class="my-button"
+        role="button"
+        id="sifirla"
+        href="#"
+        onclick="sifirlama()"
+        >Sıfırla</a
+      >
+      <a
+        class="my-button"
+        role="button"
+        id="kaydet"
+        href="#"
+        onclick="kaydetme()"
+        >Kaydet</a
+      >
+      <script src="main.js"></script>
+    </div>
+  </body>
+</html>

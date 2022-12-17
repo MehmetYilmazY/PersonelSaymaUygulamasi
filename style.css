@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-image: url("https://www.heboyapi.com/img/2017/09/yemekhane-binalari.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #000;
+}
+
+.container {
+  color: white;
+  text-shadow: 5px;
+  text-align: center;
+  padding: 0px;
+  margin-top: 200px;
+  text-shadow: 2px 2px #000;
+}
+
+a.my-button {
+  background: linear-gradient(to right, #9f167b, #b234bb);
+  background-color: #9f167b;
+  color: #fff;
+  font-family: Trebuchet MS;
+  font-size: 18px;
+  font-weight: 800;
+  font-style: normal;
+  text-decoration: none;
+  padding: 14px 15px;
+  border: 0px solid #000;
+  border-radius: 10px;
+  display: inline-block;
+  box-shadow: 0px 0px 10px 0px #2d2d2d;
+  white-space: pre;
+  text-shadow: 0px 0px #fff;
+}
+a.my-button:hover {
+  background: linear-gradient(to right, #ab538e, #bb5fc3);
+  background-color: #ab538e;
+}
+a.my-button:active {
+  transform: scale(0.95);
+}
