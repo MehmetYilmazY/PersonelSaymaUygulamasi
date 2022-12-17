@@ -3,13 +3,14 @@
 
 Yemekhanesi bulunan firmalar için Yemek Yiyen Personel Sayma Uygulaması
 
-## Kullanılan Teknolojiler
-
-**İstemci:** Javascript, HTML, CSS
-  
 ## Ekran Görüntüleri
 
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/qe4wvgx.jpg)
+
+
+## Kullanılan Teknolojiler
+
+**İstemci:** Javascript, HTML, CSS
 
   
 ## Geri Bildirim
