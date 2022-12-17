@@ -5,7 +5,7 @@ Yemekhanesi bulunan firmalar için Yemek Yiyen Personel Sayma Uygulaması
 
 ## Test Platformu
 
-![Buradan Test Edebilirsiniz.]https://sleexc.github.io/PersonelSaymaUygulamasi/
+[Buradan Test Edebilirsiniz.](https://sleexc.github.io/PersonelSaymaUygulamasi/)
 
 ## Ekran Görüntüleri
 
